@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "baseFontSize": 12,
+  "textFontFamily": "Space Mono,SpaceMono Nerd Font Mono",
+  "monospaceFontFamily": "Space Mono,SpaceMono Nerd Font Mono",
+  "interfaceFontFamily": "Space Mono,SpaceMono Nerd Font Mono",
+  "cssTheme": "Dracula Official",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "baseFontSizeAction": false
+}

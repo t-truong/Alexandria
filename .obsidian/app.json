@@ -1,0 +1,31 @@
+{
+  "mobileToolbarCommands": [
+    "editor:fold-all",
+    "editor:unfold-all",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-link",
+    "editor:toggle-checklist-status",
+    "editor:insert-codeblock",
+    "editor:undo",
+    "editor:redo"
+  ],
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "useTab": false,
+  "tabSize": 2,
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true,
+  "showIndentGuide": true,
+  "strictLineBreaks": false,
+  "livePreview": false,
+  "showInlineTitle": false,
+  "trashOption": "local",
+  "promptDelete": false,
+  "vimMode": true,
+  "smartIndentList": false
+}

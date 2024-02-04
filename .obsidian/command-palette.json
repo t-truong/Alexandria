@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "obsidian-git:open-git-view",
+    "meld-encrypt:meld-encrypt-convert-to-or-from-encrypted-note",
+    "ledger-obsidian:ledger-open-dashboard",
+    "ledger-obsidian:ledger-add-transaction"
+  ]
+}
