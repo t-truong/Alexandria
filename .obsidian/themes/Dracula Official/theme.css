@@ -507,8 +507,8 @@ button.mod-cta {
 
 .markdown-preview-view {
   color: var(--text-normal);
-  padding-left: 2.5%; /*t-truong */
-  padding-right: 1.0%; /*t-truong */
+  padding-left: 7.5%; /*t-truong */
+  padding-right: 0.25%; /*t-truong */
 }
 
 .mod-single-child .markdown-preview-view {
@@ -521,8 +521,8 @@ button.mod-cta {
 
 .cm-s-obsidian {
   color: var(--text-normal);
-  padding-left: 2.5%; /*t-truong */
-  padding-right: 1.0%; /*t-truong */
+  padding-left: 7.5%; /*t-truong */
+  padding-right: 0.25%; /*t-truong */
 }
 
 .mod-single-child .cm-s-obsidian {
