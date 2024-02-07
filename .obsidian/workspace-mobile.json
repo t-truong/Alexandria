@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d9a66068c54cd15e",
+        "id": "1cc976f051ca98c6",
         "type": "tabs",
         "children": [
           {
-            "id": "1d452b76adbffe95",
+            "id": "9dddfa286c7d20a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "273a565f526a7db1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Recipes/Soups/Tomato Soup.md",
+                "file": "01_Recipes/Soups/Loubia.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01_Recipes/Soups/Tomato Soup.md",
+            "file": "01_Recipes/Soups/Loubia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01_Recipes/Soups/Tomato Soup.md",
+            "file": "01_Recipes/Soups/Loubia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "01_Recipes/Soups/Tomato Soup.md"
+            "file": "01_Recipes/Soups/Loubia.md"
           }
         }
       },
@@ -156,12 +143,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "273a565f526a7db1",
+  "active": "9dddfa286c7d20a5",
   "lastOpenFiles": [
-    "01_Recipes/01_Measurements and Units.md",
     "01_Recipes/Soups/Tomato Soup.md",
-    "README.md",
+    "01_Recipes/Soups/Loubia.md",
     "01_Recipes/00_Template.md",
+    "README.md",
+    "01_Recipes/01_Measurements and Units.md",
+    "01_Recipes/Soups/Tomato Soups.md",
     "01_Recipes/Soups",
     "01_Recipes",
     "Creamy Tomato Soup.md",

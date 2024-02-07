@@ -6,11 +6,12 @@ Brief description
 
 # Equipment
 
-- List any non-standard cooking equipment required
+- List important cooking equipment required
 
 # Ingredients
 1) **Ingredient 1** *\[quantity & units\]*
-   - Additional notes as necessary
+   - Size
+   - Preparation
 2) **Ingredient 2** *\[quantity & units\]*
 
 # Instructions
