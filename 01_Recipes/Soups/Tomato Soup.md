@@ -31,7 +31,7 @@ Creamy aromatic tomato soup
 
 # Instructions
 1) Sauté *all* **diced sweet onions** in pot on medium-high heat until barely soften
-2) Add *all* **minced garlic** to softened onions; sauté until onions/garlic golden brown
+2) Add *all* **minced garlic**; sauté until onions/garlic golden brown
 3) Add *all* **crushed tomatoes** to golden brown onions/garlic
 4) Medium-high closed lid boil pot for *15 minutes* or until tomatoes turns to mush
 5) Use generic or immersion blender to super-fine blend onion/garlic/tomato stew

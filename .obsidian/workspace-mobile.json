@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc976f051ca98c6",
+        "id": "faba3eeb9f2be9c0",
         "type": "tabs",
         "children": [
           {
-            "id": "9dddfa286c7d20a5",
+            "id": "099d21bd9b16e1fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -143,11 +143,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dddfa286c7d20a5",
+  "active": "099d21bd9b16e1fd",
   "lastOpenFiles": [
     "01_Recipes/Soups/Tomato Soup.md",
-    "01_Recipes/Soups/Loubia.md",
     "01_Recipes/00_Template.md",
+    "01_Recipes/Soups/Loubia.md",
     "README.md",
     "01_Recipes/01_Measurements and Units.md",
     "01_Recipes/Soups/Tomato Soups.md",

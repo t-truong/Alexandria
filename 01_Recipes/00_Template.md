@@ -12,9 +12,11 @@ Brief description
 1) **Ingredient 1** *\[quantity & units\]*
    - Size
    - Preparation
+   - Alternatives
 2) **Ingredient 2** *\[quantity & units\]*
 
 # Instructions
 1) Step 1
    - Additional notes as necessary
 2) Step 2
+3) ==Serve dish==
