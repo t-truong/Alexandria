@@ -9,6 +9,7 @@ Morrocan aromatic and spicy cannellini bean soup
 - Medium sized pot
 
 # Ingredients
+
 1) **Tomatoes** *\[2 ct\]*
    - Large size
    - Large diced
@@ -23,14 +24,17 @@ Morrocan aromatic and spicy cannellini bean soup
 5) **Garlic** *\[1 head\]*
    - Medium minced
 6) **Ginger** *\[<sup>1</sup>/<sub>4</sub> tsp\]*
+   - Rinsed
    - Very fine minced
 7) **Cilantro** *\[5 tbsp\]*
+   - Rinsed
    - Medium chopped
 8) **Cumin** *\[2 tbsp\]*
 9) **Paprika** *\[1 tbsp\]*
 10) **Chili Powder** *\[<sup>1</sup>/<sub>2</sub> tbsp\]*
 
 # Instructions
+
 1) Sauté *all* **minced garlic** in pot on medium-high heat until golden, then remove and store to be used as garnish
 2) Sauté *all* **diced sweet onions** in pot on medium-high heat until golden brown caramelized
    - Also add *all* ginger half way through

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4eb73e329bb0274",
+        "id": "217eb416e21a68cd",
         "type": "tabs",
         "children": [
           {
-            "id": "bbc193f7a78f5cda",
+            "id": "9338c9a4e2a3e26e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -143,15 +143,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38594e0b48f71396",
+  "active": "9338c9a4e2a3e26e",
   "lastOpenFiles": [
-    "01_Recipes/Fish/Basic Salmon.md",
+    "01_Recipes/01_Meals.md",
     "README.md",
+    "01_Recipes/Staples/Basic Rice.md",
+    "01_Recipes/README.md",
+    "01_Recipes/Poultry/Basic Chicken Thighs.md",
+    "01_Recipes/Staples/Cilantro Lime Rice.md",
+    "Staples/Cilantro Lime Rice.md",
+    "Staples",
     "01_Recipes/00_Template.md",
-    "01_Recipes/01_Measurements and Units.md",
+    "01_Recipes/Fish/Basic Salmon.md",
     "01_Recipes/Soups/Tomato Soup.md",
     "01_Recipes/Soups/Loubia.md",
-    "Untitled.md",
+    "01_Recipes/Staples",
+    "01_Recipes/Poultry",
     "Basi.md",
     "01_Recipes/Fish",
     "LICENSE.md",

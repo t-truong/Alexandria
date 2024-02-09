@@ -10,12 +10,15 @@ Creamy aromatic tomato soup
 - Medium sized pot
 
 # Ingredients
+
 1) **Tomatoes** *\[6 ct\]*
    - Large size
+   - Rinse as necessary
    - Small diced and crushed (doesn't have to be completely crushed, just mushy)
    - Can substitute with canned crushed tomatoes of equivalent quantity
 2) **Sweet onion** *\[1 ct\]*
    - Medium size
+   - Rinsed
    - Large diced
 3) **Garlic** *\[1 head\]*
    - Medium minced
@@ -30,6 +33,7 @@ Creamy aromatic tomato soup
 11) **Oregano** *\[1 tbsp\]*
 
 # Instructions
+
 1) Sauté *all* **diced sweet onions** in pot on medium-high heat until barely soften
 2) Add *all* **minced garlic**; sauté until onions/garlic golden brown
 3) Add *all* **crushed tomatoes** to golden brown onions/garlic

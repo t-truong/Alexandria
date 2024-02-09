@@ -2,12 +2,6 @@
 
 Basic Maryland Old Bay seasoned salmon
 
-### Combinations
-
-1) Basic Salmon and Rice
-   - Basic Salmon
-   - Rice
-
 ---
 
 # Equipment
@@ -15,15 +9,17 @@ Basic Maryland Old Bay seasoned salmon
 - Frying pan
 
 # Ingredients
-1) **Salmon** *\[1 ct\]*
+
+1) **Salmon**
    - Cut into palm-sized fillets
-   - ==Skin-on is a requirement==
+   - ==Skin-on==
    - Recommended to fry from refrigerated state, helps prevent overcooking while giving crispy skin
    - Can also use `Steelhead Trout`
 2) **Butter** *\[1 tsp per salmon fillet\]*
 3) **Old Bay** *\[1 tsp per salmon fillet\]*
 
 # Instructions
+
 1) Pre-heat frying pan to high heat
 2) Fry **salmon fillet** skin side down on high heat until ==starting to== golden brown
    - Approximately *5 minutes* but time varies
