@@ -12,14 +12,16 @@ Some useful Obsidian plugins and settings are set in the [.obsidian](.obsidian) 
 # Table of Contents
 
 1) 01_Recipes
-   - **00_Template**: Recipe template
-   - **01_Meals**: Meals from recipe combinations
-   - Fish
+   - **00_Template.md**: Recipe template
+   - [**01_Meals.md**](01_Recipes/01_Meals.md): Meals from recipe combinations
+   - **Fish**
      - [Basic Salmon](01_Recipes/Fish/Basic%20Salmon.md)
-   - Poultry
+   - **Poultry**
      - [Basic Chicken Thighs](01_Recipes/Poultry/Basic%20Chicken%20Thighs.md)
-   - Soups
+   - **Soups**
      - [Loubia](01_Recipes/Soups/Loubia.md)
      - [Tomato Soup](01_Recipes/Soups/Tomato%20Soup.md)
-   - Staples
+   - **Staples**
      - [Basic Rice](01_Recipes/Staples/Basic%20Rice.md)
+   - **Vegetables**
+     - [Sauteéd Broccoli](01_Recipes/Vegetables/Sautéed%20Broccoli)

@@ -10,13 +10,13 @@ Basic Maryland Old Bay seasoned salmon
 
 # Ingredients
 
-1) **Salmon**
+1) [ ] **Salmon**
    - Cut into palm-sized fillets
    - ==Skin-on==
    - Recommended to fry from refrigerated state, helps prevent overcooking while giving crispy skin
    - Can also use `Steelhead Trout`
-2) **Butter** *\[1 tsp per salmon fillet\]*
-3) **Old Bay** *\[1 tsp per salmon fillet\]*
+2) [ ] **Butter** *\[1 tsp per salmon fillet\]*
+3) [ ] **Old Bay** *\[1 tsp per salmon fillet\]*
 
 # Instructions
 
