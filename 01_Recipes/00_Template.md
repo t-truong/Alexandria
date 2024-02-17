@@ -10,13 +10,13 @@ Brief description
 
 # Ingredients
 
-1) **Ingredient 1** *\[quantity & units\]*
+1) [ ] **Ingredient 1** *\[quantity & units\]*
    - Size
    - Preparation
    - Alternatives
    - Normal detail
    - ==Crucial detail==
-2) **Ingredient 2** *\[quantity & units\]*
+2) [ ] **Ingredient 2** *\[quantity & units\]*
 
 # Instructions
 

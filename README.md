@@ -14,6 +14,8 @@ Some useful Obsidian plugins and settings are set in the [.obsidian](.obsidian) 
 1) 01_Recipes
    - **00_Template.md**: Recipe template
    - [**01_Meals.md**](01_Recipes/01_Meals.md): Meals from recipe combinations
+   - **Drinks**
+     - [Limeade](01_Recipes/Drinks/Limeade.md)
    - **Fish**
      - [Basic Salmon](01_Recipes/Fish/Basic%20Salmon.md)
    - **Poultry**
