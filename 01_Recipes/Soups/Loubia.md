@@ -10,30 +10,30 @@ Morrocan aromatic and spicy cannellini bean soup
 
 # Ingredients
 
-1) [ ] **Tomatoes** *\[2 ct\]*
+1) [x] **Tomatoes** *\[4 ct\]*
    - Large size
    - Large diced
-2) [ ] **Sweet onion** *\[1 ct\]*
+2) [x] **Sweet onion** *\[1 ct\]*
    - Medium size
    - Large diced
-3) [ ] **Cannellini bean** *\[439 g\]*
+3) [x] **Cannellini bean** *\[439 g\]*
    - Rinse canning juice
    - Also called `white kidney beans`
    - Comes in *15.5 oz* can
-4) [ ] **Tomato paste** *\[2 tbsp\]*
-5) [ ] **Olive oil** *\[4 tbsp\]*
-6) [ ] **Garlic** *\[1 head\]*
+4) [x] **Tomato paste** *\[2 tbsp\]*
+5) [x] **Olive oil** *\[4 tbsp\]*
+6) [x] **Garlic** *\[1 head\]*
    - Medium minced
-7) [ ] **Ginger** *\[<sup>1</sup>/<sub>4</sub> tsp\]*
+7) [x] **Ginger** *\[<sup>1</sup>/<sub>4</sub> tsp\]*
    - Rinsed
    - Very fine minced
-8) [ ] **Cilantro** *\[5 tbsp\]*
+8) [x] **Cilantro** *\[5 tbsp\]*
    - Rinsed
    - Medium chopped
-9) [ ] **Salt** *\[2 tbsp\]*
-10) [ ] **Cumin** *\[2 tbsp\]*
-11) [ ] **Paprika** *\[1 tbsp\]*
-12) [ ] **Chili powder** *\[<sup>1</sup>/<sub>2</sub> tbsp\]*
+9) [x] **Salt** *\[2 tbsp\]*
+10) [x] **Cumin** *\[2 tbsp\]*
+11) [x] **Paprika** *\[1 tbsp\]*
+12) [x] **Chili powder** *\[<sup>1</sup>/<sub>2</sub> tbsp\]*
 
 # Instructions
 
