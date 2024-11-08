@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4756f8dd913f79c6",
+        "id": "96c4b5b9938c2b37",
         "type": "tabs",
         "children": [
           {
-            "id": "a0580693a225b7ad",
+            "id": "fb02995a535468b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Recipes/Soups/Loubia.md",
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "acad7ecf62c7bb50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Botany/Chlorophytum comosum.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01_Recipes/Soups/Loubia.md",
+            "file": "02_Botany/Chlorophytum comosum.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01_Recipes/Soups/Loubia.md",
+            "file": "02_Botany/Chlorophytum comosum.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "01_Recipes/Soups/Loubia.md"
+            "file": "02_Botany/Chlorophytum comosum.md"
           }
         }
       },
@@ -143,12 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0580693a225b7ad",
+  "active": "acad7ecf62c7bb50",
   "lastOpenFiles": [
     "README.md",
+    "02_Botany/Chlorophytum comosum.md",
+    "02_Botany",
+    "01_Recipes/Soups/Tomato Soup.md",
     "01_Recipes/Soups/Loubia.md",
     "01_Recipes/Soups/Canh Chua.md",
-    "01_Recipes/Soups/Tomato Soup.md",
     "01_Recipes/Drinks/Limeade.md",
     "Limeade.md",
     "01_Recipes/00_Template.md",
