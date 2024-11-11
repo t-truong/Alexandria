@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "96c4b5b9938c2b37",
+        "id": "f8687309a4e439b8",
         "type": "tabs",
         "children": [
           {
-            "id": "fb02995a535468b7",
+            "id": "a25b86b79e96edf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "acad7ecf62c7bb50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Botany/Chlorophytum comosum.md",
+                "file": "02_Botany/Ceropegia woodii.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "02_Botany/Chlorophytum comosum.md",
+            "file": "02_Botany/Ceropegia woodii.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "02_Botany/Chlorophytum comosum.md",
+            "file": "02_Botany/Ceropegia woodii.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "02_Botany/Chlorophytum comosum.md"
+            "file": "02_Botany/Ceropegia woodii.md"
           }
         }
       },
@@ -156,10 +143,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acad7ecf62c7bb50",
+  "active": "a25b86b79e96edf6",
   "lastOpenFiles": [
-    "README.md",
     "02_Botany/Chlorophytum comosum.md",
+    "02_Botany/Ceropegia woodii.md",
+    "README.md",
     "02_Botany",
     "01_Recipes/Soups/Tomato Soup.md",
     "01_Recipes/Soups/Loubia.md",

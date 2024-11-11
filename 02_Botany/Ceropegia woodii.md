@@ -1,15 +1,15 @@
-# Chlorophytum comosum
-- Spider plant
-- Spider ivy
-- Tibbon plant
+# Ceropegia woodii
+- String of hearts
+- Rosary vine
+- Sweetheart vine
 
 ---
 
 # Seed
 ### Description
-Black `2 to 3 mm` round seeds with "w-shaped" bumps on top
+Black `2 to 3 mm` long teardrop shaped seeds
 ### Germination chance
-~25%
+~60%
 
 ---
 # Event Timeframe
